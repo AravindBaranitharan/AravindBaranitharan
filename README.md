@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available [*HERE*](https://github.com/AravindBaranitharan)
 
-- 💬 Ask me about *DSA, Java ,HTML ,JS ,CSS ,React.Js,Dart,Flutter,Kotlin*
+- 💬 Ask me about *DSA, Java ,HTML ,JS ,CSS ,React.Js,mongodb*
 
 - 📫 You can reach me by [*MY-GMAIL*](mailto:aravindbaranitharan@gmail.com)
 
